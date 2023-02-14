@@ -1,6 +1,6 @@
 
 # Bad USB (Quick)
-
+<img src= "https://cdn-icons-png.flaticon.com/512/526/526943.png" height = 100px width = 100px/>
 A small guide on how to get started with creating a bad USB (which is a corrupted USB in layman's terms)
 
 ## Components
